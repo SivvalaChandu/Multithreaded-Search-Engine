@@ -31,6 +31,7 @@ This project implements a multithreaded search system in Java. It scans a direct
       <version>5.2.3</version>
   </dependency>
   ```
+  You can also change the version as your requirements
 
 ## Getting Started
 
@@ -38,10 +39,12 @@ This project implements a multithreaded search system in Java. It scans a direct
 
 ```
 git clone https://github.com/SivvalaChandu/Multithreaded-Search-Engine.git
-cd MultithreadedSearchEngine
+cd Multithreaded-Search-Engine
 ```
 
-### 2.Navigate to the project directory: Make sure to replace the directory path in Main.java with the directory that contains your .txt, .pdf, and .doc files.
+### 2.Navigate to the project directory:
+
+Make sure to replace the directory path in Main.java with the directory that contains your .txt, .pdf, and .doc files.
 
 ```
 File directory = new File("ENTER_YOUR_DIR_PATH");
